@@ -1,1 +1,1 @@
-# programacion-multiparadigma-2025
+# Programación Multiparadigma 2025
